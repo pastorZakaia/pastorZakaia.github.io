@@ -1,0 +1,16 @@
+{
+  "name": "afrofuturism-diss-project-zw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "icon": "ben-bImg.jpg",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zakiya Whyles 201482561",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+  
+}

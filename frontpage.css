@@ -1,0 +1,33 @@
+body {
+    background-image: url(ben2icon.jpg);
+    font: white;
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    color: aqua;
+    justify-content: center;
+   text-align: center;
+}
+
+p {
+    color:white;
+    font-weight: 300;
+    font-style: bold;
+    
+}
+
+#boxPara {
+    
+    background-color: rgb(44, 61, 67, 0.6);
+    box-shadow: 10px 10px 5px rgb(39, 64, 73);
+
+}
+
+#h1-font {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-size: larger;
+    color: aqua;
+}
+

@@ -1,0 +1,45 @@
+body {
+    color: brown;
+    font-family: 'Roboto Mono', monospace; ;     
+    background-image: url(benbimg.png);  
+    background-size: cover;
+}
+.textcolour2 {
+    color: red;
+    font-weight: 700 bold;
+}
+.textcolour2:visited {
+    color: rgb(255, 252, 252) ;
+}
+
+a { color: white;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white
+
+}
+
+
+
+
+h1 {
+    font-family: 'Kdam Thmor Pro', sans-serif; 
+    margin-left: 100px;
+
+}
+
+p {
+    margin-left: 100px;
+}
+
+
+
+
+
+#card-thumbnails {
+    margin-left: 100px;
+}
