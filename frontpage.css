@@ -15,9 +15,14 @@ p {
     color:white;
     font-weight: 300;
     font-style: bold;
+    font-size: 16px;
     
 }
 
+@media (min-width: 320px) and (max-width:1100px) { 
+    h5 {font-size:1.25;} 
+    p {font-size: 16px;}
+  }
 #boxPara {
     
     background-color: rgb(44, 61, 67, 0.6);
