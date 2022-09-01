@@ -27,7 +27,7 @@ h5 {
     font-size: 1.25rem;
 }
 
-@media (min-width: 320px) and (max-width:1100px) { 
+@media (min-width: 320px) and (max-width:1000px) { 
     h5 {font-size: 1.25rem;;} 
     p {font-size: 12px;}
   }
